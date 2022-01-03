@@ -1,0 +1,12 @@
+*~
+*#
+*.#
+.#*
+.idea
+**/gurobi.log
+/packages/**/result
+
+#
+# Not sure what this was from:
+#
+local-nixpkgs-env.nix
